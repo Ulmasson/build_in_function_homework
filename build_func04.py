@@ -9,3 +9,4 @@ def main(n):
         float: the value of the expression
     """
     return pow(((2+n)/3),2)
+print(main(4))
